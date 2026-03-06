@@ -1,3 +1,4 @@
+
 ********
 Windows / Linux 
 
@@ -6,4 +7,19 @@ Cryptomator
 Vera Crypt  / EDS NG 
 
 7zip / ZArchiver
+********
+
+********
+Simplex chat
+Session 
+
+Zangi
+Twinme
+Skred
+
+Signal
+Telegram
+
+Threema
+Element matrix
 ********
